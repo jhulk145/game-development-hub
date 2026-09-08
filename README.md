@@ -48,3 +48,8 @@ automatically follow a predefined path.
 
 [View the files](experiments/idle-ai-path-walker)
 
+## 3D Modelling
+
+Standalone Blender work is maintained separately in my Blender portfolio.
+[View the portfolio](https://github.com/jhulk145/blender-portfolio)
+
