@@ -11,3 +11,8 @@ An attempt to replicate the iconic game flappy bird, having a sprite jump though
 A futuristic 3D platformer with coded wall running mechanics, in this game you jump from wall to wall ad shoot enemies as they come.
 **Technologies** Unity, C# 
 [View the Bounty repository](https://github.com/jhulk145/bounty)
+
+### Intergalactic
+An adventure on a compromised spaceship, navigating different areas of the ship the player must defeat al the aliens that have invaded.
+**Technologies** Unity, C#, Blender
+[View the Intergalactic reposotiory](https://github.com/jhulk145/intergalactic)
