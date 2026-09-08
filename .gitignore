@@ -1,0 +1,33 @@
+# Unity-generated folders in any nested project
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+
+# IDE files
+**/.vs/
+**/.vscode/
+**/.idea/
+
+# Visual Studio and C# generated files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Crash reports and temporary files
+sysinfo.txt
+*.tmp
+*.bak
