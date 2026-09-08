@@ -16,3 +16,35 @@ A futuristic 3D platformer with coded wall running mechanics, in this game you j
 An adventure on a compromised spaceship, navigating different areas of the ship the player must defeat al the aliens that have invaded.
 **Technologies** Unity, C#, Blender
 [View the Intergalactic reposotiory](https://github.com/jhulk145/intergalactic)
+
+
+## Unity Experiments
+
+### 2D Platformer
+
+A Unity prototype demonstrating 2D player movement, goal detection
+and progression between stages.
+
+**Skills demonstrated:**
+
+- C# scripting
+- 2D player movement
+- Collision and trigger detection
+- Unity scene management
+
+[View the files](experiments/2d-platformer)
+
+### Idle AI Path Walker
+
+A Unity experiment that allows an idle AI-controlled character to
+automatically follow a predefined path.
+
+**Skills demonstrated:**
+
+- C# scripting
+- Waypoint-based movement
+- Automated character behaviour
+- Basic AI navigation
+
+[View the files](experiments/idle-ai-path-walker)
+
