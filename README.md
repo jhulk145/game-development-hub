@@ -6,10 +6,9 @@ Welcome to my game-development portfolio. This repository brings together a sele
 
 ### Flappy Bird Recreation
 
+![Flappy Bird Gameplay](images/flappy-bird-preview.png)
+
 A recreation of the classic *Flappy Bird* gameplay loop. The player controls a flying character and must navigate through pipes that spawn at varying heights.
-
-<img width="1311" height="512" alt="image" src="https://github.com/user-attachments/assets/66818e1a-5a50-4d59-a29f-9a2980f2cfa7" />
-
 
 **Technologies:** Unity, C#
 
@@ -23,6 +22,8 @@ A recreation of the classic *Flappy Bird* gameplay loop. The player controls a f
 [View the Flappy Bird repository](https://github.com/jhulk145/flappy-bird)
 
 ### Bounty
+
+![Bounty Gameplay](images/bounty-preview.png)
 
 A futuristic 3D platformer featuring custom wall-running mechanics, ranged combat, and enemy encounters. Players move between walls and platforms while fighting enemies throughout the environment.
 
@@ -38,6 +39,8 @@ A futuristic 3D platformer featuring custom wall-running mechanics, ranged comba
 [View the Bounty repository](https://github.com/jhulk145/bounty)
 
 ### Intergalactic
+
+![Intergalactic Gameplay](images/intergalactic-preview.png)
 
 A science-fiction adventure set aboard a compromised spaceship. The player explores different areas of the ship and fights the aliens that have invaded it.
 
